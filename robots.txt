@@ -1,1 +1,1 @@
-Sitemap: https://saramathieson.github.io/mathiesonlab-website/sitemap.xml
+Sitemap: https://saramathieson.github.io/mathiesonlab.github.io/sitemap.xml
