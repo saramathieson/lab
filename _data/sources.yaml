@@ -1,16 +1,16 @@
 - id: doi.org/10.1186/s12859-019-2927-x
 
-- title: A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks
-  authors:
-    - Chan, Jeffrey
-    - Perrone, Valerio
-    - Spence, Jeffrey
-    - Jenkins, Paul
-    - Mathieson, Sara
-    - Song, Yun
-  publisher: NeurIPS
-  date: 2018
-  link: https://proceedings.neurips.cc/paper_files/paper/2018/file/2e9f978b222a956ba6bdf427efbd9ab3-Paper.pdf
+#- title: A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks
+#  authors:
+#    - Chan, Jeffrey
+#    - Perrone, Valerio
+#    - Spence, Jeffrey
+#    - Jenkins, Paul
+#    - Mathieson, Sara
+#    - Song, Yun
+#  publisher: NeurIPS
+#  date: 2018
+#  link: https://proceedings.neurips.cc/paper_files/paper/2018/file/2e9f978b222a956ba6bdf427efbd9ab3-Paper.pdf
 
 - id: doi.org/10.1093/molbev/msy180
 
