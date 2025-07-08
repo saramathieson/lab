@@ -9,4 +9,4 @@ nav:
 
 ## Lab News
 
-* July 2025 Sara and Leon start at Penn
+* July 2025: Sara and Leon start at Penn
