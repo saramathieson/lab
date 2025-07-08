@@ -1,4 +1,4 @@
-- id: doi.org/10.1186/s12859-019-2927-x
+#- id: doi.org/10.1186/s12859-019-2927-x
 
 #- title: A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks
 #  authors:
@@ -12,12 +12,12 @@
 #  date: 2018
 #  link: https://proceedings.neurips.cc/paper_files/paper/2018/file/2e9f978b222a956ba6bdf427efbd9ab3-Paper.pdf
 
-- id: doi.org/10.1093/molbev/msy180
+#- id: doi.org/10.1093/molbev/msy180
 
-- id: doi.org/10.1371/journal.pcbi.1004845
+#- id: doi.org/10.1371/journal.pcbi.1004845
 
-- id: doi.org/10.1007/978-3-319-05269-4_8
+#- id: doi.org/10.1007/978-3-319-05269-4_8
 
-- id: doi.org/10.1534/genetics.112.149096
+#- id: doi.org/10.1534/genetics.112.149096
 
-- id: doi.org/10.1093/bioinformatics/bts399
+#- id: doi.org/10.1093/bioinformatics/bts399
