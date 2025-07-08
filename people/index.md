@@ -5,11 +5,9 @@ nav:
   tooltip: Lab members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}People
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}

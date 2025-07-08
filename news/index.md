@@ -2,26 +2,11 @@
 title: News
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Lab news
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Lab News
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+* July 2025 Sara and Leon start at Penn
