@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # saramathieson's Website
+  # Mathieson Lab Website
 
   Visit **[saramathieson.github.io/lab](https://saramathieson.github.io/lab)** 🚀
 

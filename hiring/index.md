@@ -28,6 +28,4 @@ We are hiring! We are looking for computational postdocs and graduate students t
   link="https://maps.app.goo.gl/v6AT2re88fPdkL986"
 %}
 
-{% include section.html dark=true %}
-
 

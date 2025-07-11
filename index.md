@@ -1,81 +1,49 @@
 ---
 ---
 
-# saramathieson's Website
+# Mathieson Lab Website
 
-An engaging 1-3 sentence description of your lab.
+We are a computational lab focusing on developing machine learning algorithms for biological data. Currently we are working on inference tasks related to natural selection and demographic inference, as well as generative models for genomic data from humans, mosquitos, and other species.
 
 {% include section.html %}
 
-## Highlights
+## Current Projects
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+We are applying generative models to *Anopheles gambiae* mosquitos from Africa to learn about their evolutionary history, specifically migration between populations for the purpose of understanding insecticide resistance.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/mosquito.pdf"
+  title="Generative models for mosquitos"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+We are working on interpretability approaches for machine learning methods in population genetics, including GANs and CNNs.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
+  image="images/interpret.jpg"
+  title="Interpretability"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+We are working on transformer and hybrid-style models for a range of tasks, including introgression inference and long-range dependency prediction.
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/attention.jpg"
+  title="Transformers"
   text=text
 %}

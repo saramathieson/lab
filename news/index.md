@@ -9,4 +9,8 @@ nav:
 
 ## Lab News
 
+* August 2025: Sara to start co-teaching Computational Biology with Junhyong Kim
+
+* August 2025: Sara to attend NIH summit at Penn State
+
 * July 2025: Sara and Leon start at Penn

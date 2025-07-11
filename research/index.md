@@ -7,10 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
+More information on [Google Scholar](todo).
 
 {% include list.html data="citations" component="citation" style="rich" %}
