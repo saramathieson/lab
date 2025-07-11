@@ -135,28 +135,89 @@
   orcid: 0000-0002-0484-0838
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1186/s12859-019-2927-x
+  title: 'ImaGene: a convolutional neural network to quantify natural selection from
+    genomic data'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
+  - Luis Torada
+  - Lucrezia Lorenzon
+  - Alice Beddis
+  - Ulas Isildak
+  - Linda Pattini
+  - Sara Mathieson
+  - Matteo Fumagalli
+  publisher: BMC Bioinformatics
+  date: '2019-11-01'
+  link: https://doi.org/gpf4t3
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1093/molbev/msy180
+  title: <i>FADS1</i>and the Timing of Human Adaptation to Agriculture
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
+  - Sara Mathieson
+  - Iain Mathieson
+  publisher: Molecular Biology and Evolution
+  date: '2018-10-01'
+  link: https://doi.org/gst6zw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1004845
+  title: Deep Learning for Population Genetic Inference
+  authors:
+  - Sara Sheehan
+  - Yun S. Song
+  publisher: PLOS Computational Biology
+  date: '2016-03-28'
+  link: https://doi.org/f8wp74
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-319-05269-4_8
+  title: Decoding Coalescent Hidden Markov Models in Linear Time
+  authors:
+  - Kelley Harris
+  - Sara Sheehan
+  - John A. Kamm
+  - Yun S. Song
+  publisher: Lecture Notes in Computer Science
+  date: '2014-01-01'
+  link: https://doi.org/g9stk5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1534/genetics.112.149096
+  title: 'Estimating Variable Effective Population Sizes from Multiple Genomes: A
+    Sequentially Markov Conditional Sampling Distribution Approach'
+  authors:
+  - Sara Sheehan
+  - Kelley Harris
+  - Yun S Song
+  publisher: Genetics
+  date: '2013-07-01'
+  link: https://doi.org/f49v93
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/bts399
+  title: 'Telescoper: <i>de novo</i> assembly of highly repetitive regions'
+  authors:
+  - Ma'ayan Bresler
+  - Sara Sheehan
+  - Andrew H. Chan
+  - Yun S. Song
+  publisher: Bioinformatics
+  date: '2012-09-03'
+  link: https://doi.org/f38qfp
+  plugin: sources.py
+  file: sources.yaml
+- title: A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable
+    Neural Networks
+  authors:
+  - Jeffrey Chan
+  - Valerio Perrone
+  - Jeffrey Spence
+  - Paul Jenkins
+  - Sara Mathieson
+  - Yun Song
+  publisher: NeurIPS
+  date: '1970-01-01'
+  link: https://proceedings.neurips.cc/paper_files/paper/2018/file/2e9f978b222a956ba6bdf427efbd9ab3-Paper.pdf
   plugin: sources.py
   file: sources.yaml
