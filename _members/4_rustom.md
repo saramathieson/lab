@@ -1,6 +1,6 @@
 ---
 name: Rustom Dubash
-image: images/photo.jpg
+image: images/rustom.jpg
 role: undergrad
 affiliation: Haverford College
 ---

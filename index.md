@@ -17,7 +17,7 @@ We are applying generative models to *Anopheles gambiae* mosquitos from Africa t
 
 {%
   include feature.html
-  image="images/mosquito.pdf"
+  image="images/mosquito.jpg"
   title="Generative models for mosquitos"
   text=text
 %}
