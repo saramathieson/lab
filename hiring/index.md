@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html %}Hiring and Contact
 
-We are hiring! We are looking for computational postdocs and graduate students to join the lab, with a focus on projects related to machine learning (ML), novel architectures for biological data, interpretability, and comparison of ML with traditional methods. Experience with Python and either PyTorch or TensorFlow is preferred but not required. Application-based projects are also possible, including to mosquito data from the [MalariaGEN](https://www.malariagen.net/) project as well as humans. Please email me if you have any questions or are interested in applying: 
+We are hiring! We are looking for computational postdocs and graduate students to join the lab, with a focus on projects related to machine learning (ML), novel architectures for biological data, interpretability, and comparison of ML with traditional methods. Other projects in the lab include genetic data representation, privacy-preserving generative models, and pedigree-based methods for understanding recent evolution. Experience with Python and either PyTorch or TensorFlow is preferred but not required. Application-based projects are also possible, including to mosquito data from the [MalariaGEN](https://www.malariagen.net/) project as well as humans or other species. Please email me if you have any questions or are interested in applying: 
 
 {%
   include button.html
