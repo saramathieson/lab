@@ -56,31 +56,6 @@
   orcid: 0000-0002-0484-0838
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.03.07.531546
-  title: Interpreting Generative Adversarial Networks to Infer Natural Selection from
-    Genetic Data
-  authors:
-  - Rebecca Riley
-  - Iain Mathieson
-  - Sara Mathieson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-03-08'
-  link: https://doi.org/g9sm37
-  orcid: 0000-0002-0484-0838
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.11.16.516754
-  title: The genomic footprint of social stratification in admixing American populations
-  authors:
-  - Alex Mas-Sandoval
-  - Sara Mathieson
-  - Matteo Fumagalli
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-18'
-  link: https://doi.org/g9sm38
-  orcid: 0000-0002-0484-0838
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/1755-0998.13386
   title: Automatic inference of demographic parameters using generative adversarial
     networks
@@ -95,23 +70,6 @@
   publisher: Molecular Ecology Resources
   date: '2021-05-03'
   link: https://doi.org/gj542d
-  orcid: 0000-0002-0484-0838
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.08.05.237834
-  title: Automatic inference of demographic parameters using Generative Adversarial
-    Networks
-  authors:
-  - Zhanpeng Wang
-  - Jiaping Wang
-  - Michael Kourakos
-  - Nhung Hoang
-  - Hyong Hark Lee
-  - Iain Mathieson
-  - Sara Mathieson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-08-06'
-  link: https://doi.org/g9sm39
   orcid: 0000-0002-0484-0838
   plugin: orcid.py
   file: orcid.yaml
