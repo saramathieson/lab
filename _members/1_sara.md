@@ -11,16 +11,12 @@ I am currently an Assistant Professor of Machine Learning in Biology at the Univ
 
 History:
 
-* 2025 - 
-
-  University of Pennsylvania
-
+* 2025 - \
+  University of Pennsylvania \
   Assistant Professor, Biology
 
-* 2024 - 2025
-
-  Haverford College
-
+* 2024 - 2025 \
+  Haverford College \
   Associate Professor, Computer Science
 
 * 2019 - 2024
