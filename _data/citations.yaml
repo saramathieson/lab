@@ -110,7 +110,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/molbev/msy180
-  title: <i>FADS1</i>and the Timing of Human Adaptation to Agriculture
+  title: "<i>FADS1</i>\n                    and the Timing of Human Adaptation to\
+    \ Agriculture"
   authors:
   - Sara Mathieson
   - Iain Mathieson
