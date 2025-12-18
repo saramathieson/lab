@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2025.12.04.692404
+  title: Interpreting Convolutional Neural Networks in Population Genetics
+  authors:
+  - Huiting Xu
+  - Leon Zong
+  - Dylan D. Ray
+  - Lei Lei
+  - Daniel R. Schrider
+  - Franz Baumdicker
+  - Sara Mathieson
+  publisher: openRxiv
+  date: '2025-12-09'
+  link: https://doi.org/hbf6j4
+  orcid: 0000-0002-0484-0838
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.06.26.661760
   title: On the use of generative models for evolutionary inference of malaria vectors
     from genomic data
