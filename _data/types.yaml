@@ -14,9 +14,17 @@ phd:
   #icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+rotation:
+  #icon: fa-solid fa-graduation-cap
+  description: PhD Rotation Student
+
 postbac:
   #icon: fa-solid fa-glasses
   description: Postbaccalaureate Researcher
+
+masters:
+  #icon: fa-solid fa-user-graduate
+  description: Masters Student
 
 undergrad:
   #icon: fa-solid fa-user-graduate

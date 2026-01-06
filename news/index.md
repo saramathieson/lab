@@ -11,6 +11,8 @@ nav:
 
 * Jan 2026: Sara to speak at [PAG 33](https://intlpag.org/PAG33/)
 
+* Jan 2026: Andrew (GCB rotation student) and Wanlu (Data Science masters student) join the lab
+
 * Dec 2025: Avery starts at Penn, Sara and Leon speak at [LEGEND 2025](https://legend2025.sciencesconf.org/)
 
 * Fall 2025: Sara co-teaches BIOL 4536 (Computational Biology) with [Junhyong Kim](https://kim.bio.upenn.edu/)
