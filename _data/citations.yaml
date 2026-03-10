@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.03.06.710163
+  title: 'Popformer: Learning general signatures of positive selection with a self-supervised
+    transformer'
+  authors:
+  - Leon Zong
+  - Sorelle A. Friedler
+  - Sara Mathieson
+  publisher: openRxiv
+  date: '2026-03-06'
+  link: https://doi.org/hbrz4q
+  orcid: 0000-0002-0484-0838
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.04.692404
   title: Interpreting Convolutional Neural Networks in Population Genetics
   authors:
@@ -26,7 +39,7 @@
   - Austin Burt
   - Matteo Fumagalli
   - Sara Mathieson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-06-27'
   link: https://doi.org/g9sm34
   orcid: 0000-0002-0484-0838
@@ -41,7 +54,7 @@
   - Sarah Keim
   - "Maja Bu\u0107an"
   - Sara Mathieson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-08-09'
   link: https://doi.org/g9sm35
   orcid: 0000-0002-0484-0838
@@ -103,7 +116,7 @@
   - Rachel L. Kember
   - "Maja Bu\u0107an"
   - Sara Mathieson
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-01-16'
   link: https://doi.org/gkv8jz
   orcid: 0000-0002-0484-0838
