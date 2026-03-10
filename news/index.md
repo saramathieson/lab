@@ -9,7 +9,7 @@ nav:
 
 ## Lab News
 
-* Mar 2026: Kevin starts at Penn, Kevin and Leon to attend [NY Pop Gen](https://events.simonsfoundation.org/event/7c91dd1a-9247-44c2-8f31-425b1f42c14b/summary?rt=8keU8A0bnUqaqqhqxOaIVw)
+* Mar 2026: Kevin starts at Penn, Kevin and Leon attend [NY Pop Gen](https://events.simonsfoundation.org/event/7c91dd1a-9247-44c2-8f31-425b1f42c14b/summary?rt=8keU8A0bnUqaqqhqxOaIVw)
 
 * Jan 2026: Sara speaks at [PAG 33](https://intlpag.org/PAG33/)
 
