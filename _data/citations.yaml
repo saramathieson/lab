@@ -102,8 +102,8 @@
   orcid: 0000-0002-0484-0838
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.01.15.908459
-  title: Ancestral Haplotype Reconstruction in Endogamous Populations using Identity-By-Descent
+- id: doi:10.1371/journal.pcbi.1008638
+  title: Ancestral haplotype reconstruction in endogamous populations using identity-by-descent
   authors:
   - Kelly Finke
   - Michael Kourakos
@@ -116,9 +116,9 @@
   - Rachel L. Kember
   - "Maja Bu\u0107an"
   - Sara Mathieson
-  publisher: openRxiv
-  date: '2020-01-16'
-  link: https://doi.org/gkv8jz
+  publisher: PLOS Computational Biology
+  date: '2021-02-26'
+  link: https://doi.org/gpfxm7
   orcid: 0000-0002-0484-0838
   plugin: orcid.py
   file: orcid.yaml
