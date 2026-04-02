@@ -11,7 +11,7 @@ nav:
 
 * Mar 2026: Kevin starts at Penn, Kevin and Leon attend [NY Pop Gen](https://events.simonsfoundation.org/event/7c91dd1a-9247-44c2-8f31-425b1f42c14b/summary?rt=8keU8A0bnUqaqqhqxOaIVw)
 
-![Leon NY Pop Gen](images/leon_nypopgen.jpeg)
+![Leon NY Pop Gen](../images/leon_nypopgen.jpeg)
 
 * Jan 2026: Sara speaks at [PAG 33](https://intlpag.org/PAG33/)
 
