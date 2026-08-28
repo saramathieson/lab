@@ -9,6 +9,8 @@ nav:
 
 ## Lab News
 
+* Aug 2026: Raymond (Biology rotation student) joins the lab
+
 * Mar 2026: Kevin starts at Penn, Kevin and Leon attend [NY Pop Gen](https://events.simonsfoundation.org/event/7c91dd1a-9247-44c2-8f31-425b1f42c14b/summary?rt=8keU8A0bnUqaqqhqxOaIVw)
 
 ![Leon NY Pop Gen](../images/leon_nypopgen.jpeg)
@@ -21,6 +23,6 @@ nav:
 
 * Fall 2025: Sara co-teaches BIOL 4536 (Computational Biology) with [Junhyong Kim](https://kim.bio.upenn.edu/)
 
-* August 2025: Sara attends NSF NCEMS Summit at Penn State
+* Aug 2025: Sara attends NSF NCEMS Summit at Penn State
 
 * July 2025: Sara and Leon start at Penn
