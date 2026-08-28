@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.20.746066
+  title: A reusable neural approach to recombination mapping for model and non-model
+    species
+  authors:
+  - Kevin Korfmann
+  - Neda Rahnamae
+  - Sara Mathieson
+  publisher: openRxiv
+  date: '2026-08-22'
+  link: https://doi.org/hcg5fm
+  orcid: 0000-0002-0484-0838
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1014492
+  title: 'Popformer: Learning general signatures of positive selection with a self-supervised
+    transformer'
+  authors:
+  - Leon Zong
+  - Sorelle A. Friedler
+  - Sara Mathieson
+  publisher: PLOS Computational Biology
+  date: '2026-07-15'
+  link: https://doi.org/hccd6k
+  orcid: 0000-0002-0484-0838
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.05.21.726777
+  title: Fast pairwise coalescence enables gene-resolution scans for recent selection
+    in diverse human populations
+  authors:
+  - Kevin Korfmann
+  - Sara Mathieson
+  publisher: openRxiv
+  date: '2026-05-22'
+  link: https://doi.org/hcg5fn
+  orcid: 0000-0002-0484-0838
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.03.06.710163
   title: 'Popformer: Learning general signatures of positive selection with a self-supervised
     transformer'
