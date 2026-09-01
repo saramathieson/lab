@@ -9,7 +9,7 @@ nav:
 
 ## Lab News
 
-* Aug 2026: Raymond (Biology rotation student) joins the lab
+* Aug 2026: Raymond (Biology rotation student) and Fejiro (CS masters student) join the lab
 
 * Mar 2026: Kevin starts at Penn, Kevin and Leon attend [NY Pop Gen](https://events.simonsfoundation.org/event/7c91dd1a-9247-44c2-8f31-425b1f42c14b/summary?rt=8keU8A0bnUqaqqhqxOaIVw)
 
@@ -19,7 +19,7 @@ nav:
 
 * Jan 2026: Andrew (GCB rotation student) and Wanlu (Data Science masters student) join the lab
 
-* Dec 2025: Avery starts at Penn, Sara and Leon speak at [LEGEND 2025](https://legend2025.sciencesconf.org/)
+* Dec 2025: Avery starts at Penn, [Sara](https://www.canal-u.tv/chaines/lisn/legend-2025/generative-models-for-inferring-the-evolutionary-history-of-the-malaria) and [Leon](https://www.canal-u.tv/chaines/lisn/legend-2025/popformer-learning-general-signatures-of-genetic-variation-and-natural) speak at [LEGEND 2025](https://legend2025.sciencesconf.org/)
 
 * Fall 2025: Sara co-teaches BIOL 4536 (Computational Biology) with [Junhyong Kim](https://kim.bio.upenn.edu/)
 
