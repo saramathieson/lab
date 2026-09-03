@@ -1,6 +1,6 @@
 ---
 name: Fejiro Anigboro
-image: images/fejiro.JPEG
+image: images/fejiro.JPG
 role: masters
 affiliation: University of Pennsylvania
 ---
