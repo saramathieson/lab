@@ -11,3 +11,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+
+Alumni
+
+* Andrew Zolensky -- GCB rotation student
