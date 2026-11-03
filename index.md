@@ -1,7 +1,7 @@
 ---
 ---
 
-# Mathieson Lab Website
+# Mathieson Lab Website 
 
 We are a computational lab focusing on developing machine learning algorithms for biological data. Currently we are working on inference tasks related to natural selection and demographic inference, as well as generative models for genomic data from humans, mosquitos, and other species.
 
