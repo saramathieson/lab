@@ -59,8 +59,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.64898/2026.05.21.726777
-  title: Fast pairwise coalescence enables gene-resolution scans for recent selection
-    in diverse human populations
+  title: Fast pairwise coalescence enables gene-resolution scans for selection in
+    diverse human populations
   authors:
   - Kevin Korfmann
   - Sara Mathieson
